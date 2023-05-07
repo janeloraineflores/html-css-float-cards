@@ -1,0 +1,33 @@
+/* RESET */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* GENERAL */
+
+*{
+    font-family: 'Fredoka', sans-serif;
+}
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+/* HEADER */
+
+h1{
+    color: #E53170;
+    text-align: center;
+    padding: 40px;
+}
+
+p{
+    text-align: center;
+    
+}
+
